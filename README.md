@@ -10,3 +10,7 @@ A few resources were I took inspiration:
 
 - [A Simple Login UI Example](https://flutterawesome.com/a-simple-login-ui-example-for-flutter/)
 
+### ScreenShots
+
+![Sign In Screen](/assets/images/Sign%20In.PNG)
+![Sign Up Screen](/assets/images/Sign%20Up.PNG)
