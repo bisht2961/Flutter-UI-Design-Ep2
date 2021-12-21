@@ -12,5 +12,8 @@ A few resources were I took inspiration:
 
 ### ScreenShots
 
+#### Sign In Screen
 ![Sign In Screen](/assets/images/Sign%20In.PNG)
+
+#### Sign Up Screen
 ![Sign Up Screen](/assets/images/Sign%20Up.PNG)
